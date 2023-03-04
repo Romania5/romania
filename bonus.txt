@@ -1,0 +1,9 @@
+salary=int(input("enter amount"))
+servicr_yrs=float(input("enter years of service"))
+if (service_yrs>10):
+    bonus=amount*0.1
+    print("your net bonus is"*,bonus)
+    elif(service_yrs>=6 and service_yrs=<10)
+    bonus=amount*0.08
+    else:
+        bonus=amount*0.05

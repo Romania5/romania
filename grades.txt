@@ -1,0 +1,16 @@
+# a program to find the grades
+subject1=int(input("enter marks:"))
+subject2=int(input("enter marks:"))
+subject3=int(input("enter marks:"))
+avg=(subject1+subject2+subject3)/3
+if(avg>=70 and avg<=100):
+    print("grade A")
+elif (avg>=60 and avg<=69):
+    print("grade B")
+elif (avg>=50 and avg<=59):
+    print("grade C")
+elif (avg>=40 and avg<=49):
+    print("grade D")
+else:
+    print("fail")
+
