@@ -1,0 +1,8 @@
+#IEBC
+natiionality=int(input("enter nationality:"))
+age=int(input("enter age:"))
+if age=>18 and nationality=="kenyan"
+    print("vote")
+
+else:
+    print("note eligible to vote")
