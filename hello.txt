@@ -1,0 +1,6 @@
+#helloo
+num=int(input("enter number"))
+if(num%5==0):
+    print("helloo")
+else:
+        print("bye")
