@@ -1,0 +1,7 @@
+#login
+input_surname=input("enter surname")
+input_password=input("enter password")
+if surname==input_surname and password==input_password:
+    print("login successfully")
+else:
+    print("invalid login")
